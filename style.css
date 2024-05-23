@@ -1,0 +1,186 @@
+body {
+    font-family: sans-serif;
+    padding: 0;
+    font-size: 19px;
+}
+
+.nav-logo{
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid #450100;
+}
+
+.menu{
+    color: #450100;
+    font-weight: 700;
+}
+
+.menu:hover{
+    text-shadow: 0 0 12px white;
+}
+
+
+h1 {
+    /* position: relative; */
+    /* top: 75px; */
+    /* right: 285px; */
+    text-align: center;
+    color: #DD6F6F;
+}
+
+p {
+    /* top: 100px; */
+    /* position: relative; */
+    color: #E46161;
+    /* left: 40px; */
+    
+}
+
+.dz {
+    color: #FFC0C0;
+    background-color: #FF97AA;
+    font-weight: 800;
+    border-radius: 20px;
+    padding: 10px;
+    -webkit-text-stroke: 1px white;
+    width: 110px;
+    display: inline-block;
+    margin: 10px auto;
+    text-align: center;
+}
+.big-logo{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin-right: 3%;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 100px auto;
+}
+
+
+.navigation{
+    height: 80px;
+    display:flex;
+    justify-content: space-around;
+    background-color: #FFB1B1;
+}
+
+a {
+    text-decoration: none;
+    margin: auto 0;
+}
+
+header a {
+    
+}
+
+h2 {
+    /* position: relative; */
+    color: #FF97AA;
+    /* top: 165px; */
+    text-align: center;
+
+}
+
+.love {
+    
+}
+
+.faculties-img{
+    padding: 10px;
+    width: 45%;
+    height: auto;
+}
+
+
+.faculty{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    border: 3px solid rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    background-image: linear-gradient(rgb(50, 168, 82, 0), #FFCACA);
+    box-shadow: 2px 2px 8px black;
+}
+
+.right-side{
+    margin: auto;
+}
+
+.right-side h3{
+    text-shadow: 0 4px 4px rgb(0, 0, 0, .3);
+}
+
+
+li {
+    color: #E47272;
+}
+
+h3 {
+    color: #FF7A92;
+}
+
+.ti {
+    /* position: relative; */
+    /* right: 70px; */
+    color: #FF375B;
+    text-align: center;
+}
+
+.aktsiia-img{
+    width: 25%;
+    border-radius: 50%;
+}
+
+.aktsiii{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.aktsiia-text{
+    text-align: center;
+    font-size: 20px;;
+}
+
+.pancakes {
+    margin-left: 2%;
+    height: 300px;
+    width: 250px;
+}
+
+.nt {
+    background-color: #FFB1B1;
+    height: 80px;
+    display:flex;
+    justify-content: space-around;
+}
+
+.p {
+    color: #FF375B;
+}
+
+.pcake {
+    background-color: #FFC2CD;
+    padding: 4%;
+    /* font-weight: 800; */
+    border-radius: 20px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bold-text{
+    font-weight: 800;
+}
+
+h2{
+    margin-top: 100px;
+}
